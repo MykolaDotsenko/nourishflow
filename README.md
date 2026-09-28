@@ -1,12 +1,12 @@
 # NourishFlow
 
-[![Quality](https://github.com/MykolaDotsenko/Healthy-Lifestyle-Website-Vanilla-JS/actions/workflows/quality.yml/badge.svg)](https://github.com/MykolaDotsenko/Healthy-Lifestyle-Website-Vanilla-JS/actions/workflows/quality.yml)
+[![Quality](https://github.com/MykolaDotsenko/nourishflow/actions/workflows/quality.yml/badge.svg)](https://github.com/MykolaDotsenko/nourishflow/actions/workflows/quality.yml)
 
 **A privacy-first meal-planning companion built with the native web platform — no framework, no bundler, and no production dependencies.**
 
-[Live site](https://mykoladotsenko.github.io/Healthy-Lifestyle-Website-Vanilla-JS/) · [Architecture](ARCHITECTURE.md) · [Quality strategy](QUALITY.md)
+[Live site](https://mykoladotsenko.github.io/nourishflow/) · [Architecture](ARCHITECTURE.md) · [Quality strategy](QUALITY.md)
 
-![NourishFlow — privacy-first meal planning interface](https://mykoladotsenko.github.io/Healthy-Lifestyle-Website-Vanilla-JS/img/brand/nourishflow-readme-preview.png)
+![NourishFlow — privacy-first meal planning interface](https://mykoladotsenko.github.io/nourishflow/img/brand/nourishflow-readme-preview.png)
 
 ## Product
 
