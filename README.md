@@ -12,7 +12,7 @@
 
 1. choose Whole-Food, Mediterranean, Plant-Based or Balanced;
 2. optionally estimate daily maintenance energy;
-3. build Morning / Midday / Evening meal ideas;
+3. build Morning, Midday, and Evening meal ideas;
 4. switch to another set without losing the selected approach;
 5. keep a small shopping starter;
 6. save one plan locally or copy it elsewhere;
