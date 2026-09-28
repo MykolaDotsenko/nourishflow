@@ -6,6 +6,8 @@
 
 [Live site](https://mykoladotsenko.github.io/nourishflow/) · [Architecture](ARCHITECTURE.md) · [Quality strategy](QUALITY.md)
 
+Originally a small vanilla JavaScript healthy-lifestyle exercise, this project now demonstrates a privacy-first planning flow and proportional frontend engineering.
+
 ![NourishFlow — privacy-first meal planning interface](https://mykoladotsenko.github.io/nourishflow/img/brand/nourishflow-readme-preview.png)
 
 ## Product
