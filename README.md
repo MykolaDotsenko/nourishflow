@@ -79,7 +79,7 @@ The weekly rotation is deterministic, so the same approach and week produce the 
 
 ## One day is often enough
 
-The app intentionally focuses on a **single practical day** rather than a complex multi-week calendar.
+The app focuses on a **single practical day** rather than a complex multi-week calendar.
 
 Each plan contains:
 
@@ -305,7 +305,7 @@ Open `http://127.0.0.1:8080`.
 
 ## Scope
 
-NourishFlow stays deliberately modest:
+NourishFlow stays modest:
 
 - one locally saved plan rather than an account database;
 - a shopping starter rather than inventory automation;
