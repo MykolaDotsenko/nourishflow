@@ -34,7 +34,7 @@ save the plan on this device
 
 No account is required. No meal plan is sent to a remote database.
 
-## A normal Sunday-evening scenario
+## Product: a normal Sunday-evening scenario
 
 Imagine it is Sunday evening.
 
@@ -49,7 +49,7 @@ You want Monday to be a little more organised, but you do not want to:
 
 You open NourishFlow and choose **Mediterranean**.
 
-The app gives you one practical day:
+The app gives you one practical day built around **Morning, Midday, and Evening** meal ideas plus a small **shopping starter**:
 
 - **Morning**
 - **Midday**
@@ -58,7 +58,7 @@ The app gives you one practical day:
 
 If the set does not fit your week, choose another one.
 
-If it does, save it locally and come back later.
+If it does, you can **save one plan locally** and come back later.
 
 That is the core product loop.
 
@@ -115,7 +115,7 @@ For example, a plan may suggest things such as:
 
 It is a starting point you can adapt to what is already in the kitchen.
 
-## Save the useful plan, not a profile
+## Privacy and product integrity
 
 When a plan works, you can save it in the browser.
 
