@@ -45,7 +45,7 @@ app.js
 
 `app.js` wires the modules explicitly. There is no global event bus or client state framework.
 
-## Data and persistence
+## Privacy and product integrity
 
 - calculator preferences are versioned;
 - saved-plan data can migrate from the previous format;
